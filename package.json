@@ -1,0 +1,22 @@
+{
+  "name": "JiraDependencyVisualizer",
+  "version": "1.0.0",
+  "description": "Visualize Dependencies in Jira better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:rguerra712/JiraDependencyVisualizer.git"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "git@github.com:rguerra712/JiraDependencyVisualizer/issues"
+  },
+  "homepage": "git@github.com:rguerra712/JiraDependencyVisualizer#readme",
+  "devDependencies": {
+    "serverless-dotnet": "^1.4.0"
+  }
+}
